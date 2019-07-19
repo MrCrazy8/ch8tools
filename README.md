@@ -1,17 +1,18 @@
 # ch8tools
-this script writing for Create Hash and DDoS Attack And Sccan Port
+this script a all purpose , The Script allow you Create Hash And Scan open port system or install hack tools or web tools and .etc
 
-install :
+# install :
 
-pip install pyfiglet
+- git clone https://github.com/MrCrazy8/ch8tools
 ----------------------
-git clone https://github.com/MrCrazy8/ch8tools
+- cd ch8tools
 ----------------------
-cd ch8tools
+- python install.py
 ----------------------
-python2 ch8.py
+- python2 ch8.py
 ----------------------
-Code By : Crazy8
+# Contact :
 
-Telegram : @LighGreen_heart
+- Telegram  : @LightGreen_heart
+- instagram : @Mr_crazy.8
 
