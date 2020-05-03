@@ -12,6 +12,7 @@ clear
 apt-get install python2-pip
 echo -e "\n\n\n"
 clear
+pip install setuptools
 pip2 install requests
 echo -e "\n\n\n"
 clear
