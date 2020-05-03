@@ -34,6 +34,7 @@ clear
 echo -e "\ninstall tools :\n"
 apt-get install git
 apt install unzip
+gem install ocra
 sleep 3
 notify-send "Download is over" "Code By : Mr Crazy8" -u critical
 python2 ch8.py
