@@ -7,6 +7,8 @@ ch8tools has 16 tool for linux users
 
 this script is suitable for linux os (as ubuntu , mint , ...)
 
+Attention for termux users : some module can not install on termux
+
 - for donate us -> give the star to ch8tools
 
 # Recent changes :
@@ -17,7 +19,7 @@ Add 7 tool
 
 use the c lang
 
-use bash script for installing moudle , ... and delete python file for installing moudle , ...
+use bash script for installing module , ... and delete python file for installing module , ...
 
 # download & install :
 
