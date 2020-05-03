@@ -32,7 +32,7 @@ use bash script for installing moudle , ... and delete python file for installin
 
 ----------------------
 
-- sudo bash installer.sh
+- ./installer.sh
 
 ----------------------
 
