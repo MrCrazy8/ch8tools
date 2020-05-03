@@ -559,7 +559,7 @@ if input1 == "16":
     os.system("python2 ch8.py")
   if cvtinput == "2":
     numinp = raw_input(color.Green+"filename ~>"+color.end)
-    os.system("orca "+numinp)
+    os.system("ocra "+numinp+" --no-dep-run")
     print color.purple + "\nBack To Main Menu on 5 sec" + color.end
     time.sleep(5)
     os.system("python2 ch8.py")
