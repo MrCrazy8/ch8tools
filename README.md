@@ -44,6 +44,6 @@ use bash script for installing moudle , ... and delete python file for installin
 
 # Contact :
 
-- \[Support(https://Telegram.me/LightGreen_heart)]\
+- \[[Support(https://Telegram.me/LightGreen_heart)]\
 
-- \[Support2(https://Telegram.me/include_Ali)]\
+- \[[Support2(https://Telegram.me/include_Ali)]\
