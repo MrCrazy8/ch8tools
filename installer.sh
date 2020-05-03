@@ -1,7 +1,7 @@
 #!/bin/bash
 #Crazy8 ~ Ali.A
 clear
-echo -e "\ninstall py2 and moudle\n"
+echo -e "\ninstall py2 and module\n"
 
 sleep 3
 notify-send "start installation"
