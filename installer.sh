@@ -1,6 +1,6 @@
 #!/bin/bash
 #Crazy8 ~ Ali.A
-
+clear
 echo -e "\ninstall py2 and moudle\n"
 
 sleep 3
@@ -34,6 +34,7 @@ clear
 echo -e "\ninstall tools :\n"
 apt-get install git
 apt install unzip
+apt install ruby
 gem install ocra
 sleep 3
 notify-send "Download is over" "Code By : Mr Crazy8" -u critical
