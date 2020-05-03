@@ -1,6 +1,4 @@
 # ch8tools
-this script writing for
-# ch8tools
 
 ch8tools updated to v2.4 by MrCrazy8 And Ali.A , in this version ch8tools has lot of tools for installing , hacking , scaning
 
@@ -44,6 +42,6 @@ use bash script for installing moudle , ... and delete python file for installin
 
 # Contact :
 
-- \[[Support(https://Telegram.me/LightGreen_heart)]\
+- \[[Support](https://Telegram.me/LightGreen_heart)]\
 
-- \[[Support2(https://Telegram.me/include_Ali)]\
+- \[[Support2](https://Telegram.me/include_Ali)]\
