@@ -27,9 +27,10 @@ clear
 echo -e "\ninstall c tools\n"
 
 apt-get install make
-make
 apt install gcc
 apt install mingw-w64*
+apt-get install build-essential
+make
 echo " "
 clear
 echo -e "\ninstall tools :\n"
