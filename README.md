@@ -1,11 +1,11 @@
 # ch8tools
 
-![Alt Text](http://s10.picofile.com/file/8395953784/IMG_20200503_225127_319.jpg)
+![Alt Text](https://mr-crazy8.tk/github.jpg)
 ch8tools updated to v2.4 by MrCrazy8 And Ali.A , in this version ch8tools has lot of tools for installing , hacking , scaning
 
-ch8tools has 16 tool for linux users  
+ch8tools has 16 tool for Linux users  
 
-this script is suitable for linux os (as ubuntu , mint , ...)
+this script is suitable for Linux os (as ubuntu , mint , ...)
 
 Attention for termux users : some module can not install on termux
 
